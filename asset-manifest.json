@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/modelshub/static/css/main.a6204406.chunk.css",
-    "main.js": "/modelshub/static/js/main.aee4a7cc.chunk.js",
-    "main.js.map": "/modelshub/static/js/main.aee4a7cc.chunk.js.map",
+    "main.js": "/modelshub/static/js/main.03be71b8.chunk.js",
+    "main.js.map": "/modelshub/static/js/main.03be71b8.chunk.js.map",
     "runtime-main.js": "/modelshub/static/js/runtime-main.102a12ff.js",
     "runtime-main.js.map": "/modelshub/static/js/runtime-main.102a12ff.js.map",
     "static/css/2.207e99fc.chunk.css": "/modelshub/static/css/2.207e99fc.chunk.css",
@@ -42,6 +42,6 @@
     "static/css/2.207e99fc.chunk.css",
     "static/js/2.c97de7a3.chunk.js",
     "static/css/main.a6204406.chunk.css",
-    "static/js/main.aee4a7cc.chunk.js"
+    "static/js/main.03be71b8.chunk.js"
   ]
 }
